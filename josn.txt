@@ -1,0 +1,35 @@
+//水质五参
+
+	{
+	"SN":	11528,
+	"DeviceID":	11528,
+	"SeqNum":	66,
+	"WaterData":	{
+		"Cond":	436,
+		"DoVal":	8,
+		"Temp":	17.800,
+		"ZS":	4.860,
+		"PH":	8.280
+	},
+	"Version":	27,
+	"Quanity":	100,
+	"Uptime":	"2019-04-10 14:56:41"
+}
+
+
+
+
+//雷达液位流速
+
+	{
+	"SN":	11529,
+	"DeviceID":	11529,
+	"SeqNum":	3,
+	"FlowData":	{
+		"Flowl":	204,
+		"Flows":	6.788
+	},
+	"Version":	25,
+	"Quanity":	69,
+	"Uptime":	"2019-04-10 15:07:48"
+}
